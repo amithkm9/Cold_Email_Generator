@@ -14,14 +14,15 @@ A simple and efficient tool for generating cold emails tailored to job postings 
 3. **Review and Send**: Copy the generated email, make any final edits, and use it for your outreach.
 
 ## 📸 Screenshot
-![Screenshot](images/screenshot.png)
+![Screenshot 2024-12-30 at 3 39 34 PM](https://github.com/user-attachments/assets/e3f6fd24-1618-4a54-8ed7-fe61f6c1e619)
+
 
 
 ## 📦 Installation
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/cold-mail-generator.git
+   git clone https://github.com/amithkm9/cold-mail-generator.git
    cd cold-mail-generator
 2. Install dependencies
    ```bash
